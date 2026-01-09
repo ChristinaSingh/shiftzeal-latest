@@ -231,7 +231,7 @@ class HomeController extends ChangeNotifier {
         announcementList = announcementModel.data ?? [];
       } else {
         final msg = announcementModel?.message ?? "Something went wrong";
-        // CommonWidgets.showMyToastMessage(msg);
+         CommonWidgets.showMyToastMessage(msg);
       }
     } catch (e) {
       // CommonWidgets.showMyToastMessage("Error: ${e.toString()}");
