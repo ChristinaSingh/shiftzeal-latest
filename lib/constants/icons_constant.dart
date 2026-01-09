@@ -1,0 +1,109 @@
+class IconConstants {
+  static const String icSplashLogo = 'assets/icons/ic_splash_logo.svg';
+  static const String icBlueBack = 'assets/icons/ic_blue_back.png';
+  static const String icShiftDetailsCalendar = 'assets/icons/ic_calendar_shift_details.svg';
+  static const String icShiftDetailsProfile = 'assets/icons/ic_profile_sift_details.svg';
+  static const String icJoinEmployer = 'assets/icons/ic_join_employer.svg';
+  static const String icProfileSiftDetails = 'assets/icons/ic_profile_sift_detais.png';
+  static const String icAddEmployer = 'assets/icons/ic_add-employer.svg';
+  static const String icBack = 'assets/icons/ic_back_app_bar.svg';
+  static const String icHelp = 'assets/icons/ic_help_icon.svg';
+  static const String icUI = 'assets/icons/ic_ui_ux.svg';
+  static const String icUncheck = 'assets/icons/ic_uncheck.png';
+  static const String icPeopleMoney = 'assets/icons/ic_pepole_money.png';
+  static const String icPeopleStar = 'assets/icons/ic_pephole_star.png';
+  static const String icHide = 'assets/icons/ic_hide.svg';
+  static const String icView = 'assets/icons/ic_view.svg';
+  static const String icGoogleLogo = 'assets/icons/ic_google_logo.svg';
+  static const String icBusiness = 'assets/icons/ic_business.svg';
+  static const String icContactUsProfile = 'assets/icons/ic_contacts_profile.svg';
+  static const String icIAmAnEmployee = 'assets/icons/ic_i_am_an_employee.svg';
+  static const String icNextArrow = 'assets/icons/ic_next_arrow.svg';
+  static const String icMobileFill = 'assets/icons/ic_mobile_fill.svg';
+  static const String icSmsFill= 'assets/icons/ic_sms_fill.svg';
+  static const String icSWebsiteFill= 'assets/icons/ic_website_fill.svg';
+  static const String icRegisteredEmployer =
+      'assets/icons/ic_registered_employer.svg';
+  static const String icNewEmployer = 'assets/icons/ic_new_employer.svg';
+  static const String icSearch = 'assets/icons/ic_search.svg';
+  static const String icAddSquare = 'assets/icons/ic_add_square.svg';
+  static const String icHome = 'assets/icons/ic_home.svg';
+  static const String icSchedule = 'assets/icons/ic_schedule.svg';
+  static const String icEarnings = 'assets/icons/ic_earnings.svg';
+  static const String icChat = 'assets/icons/ic_chat.svg';
+  static const String icNotification = 'assets/icons/ic_notification.svg';
+  static const String icMore = 'assets/icons/ic_more.svg';
+  static const String icClock = 'assets/icons/ic_clock.svg';
+  static const String icTraced = 'assets/icons/ic_traced.svg';
+  static const String icNameLogo = 'assets/icons/ic_name_logo.svg';
+  static const String icDefaultColor = 'assets/icons/ic_default_color.svg';
+  static const String icCalendarJob = 'assets/icons/ic_calendar_job_site.svg';
+  static const String icNotSite = 'assets/icons/ic_not_site.svg';
+  static const String icLocationJobSite =
+      'assets/icons/ic_location_job_site.svg';
+  static const String icProfileSettings =
+      'assets/icons/ic_profile_settings.svg';
+  static const String icCalendarSync = 'assets/icons/ic_calendar_sync.svg';
+  static const String icAvailability = 'assets/icons/ic_availability.svg';
+  static const String icMyHours = 'assets/icons/ic_my_hours.svg';
+  static const String icSwitchEmployer = 'assets/icons/ic_switch_employer.svg';
+  static const String icLogOut = 'assets/icons/ic_log_out.svg';
+  static const String icDeleteProfile = 'assets/icons/ic_delete_profile.svg';
+  static const String icDocuments = 'assets/icons/ic_documents.svg';
+  static const String icSendMessage = 'assets/icons/ic_send_message.svg';
+  static const String icSend = 'assets/icons/ic_send.svg';
+  static const String icSend2 = 'assets/icons/ic_send-2.svg';
+  static const String icProfile2User = 'assets/icons/ic_profile-2user.svg';
+  static const String icClose = 'assets/icons/ic_close-square.svg';
+  static const String icHouse2 = 'assets/icons/ic_house-2.svg';
+  static const String icRequests = 'assets/icons/ic_requests.svg';
+  static const String icAbsences = 'assets/icons/ic_absences.svg';
+  static const String icAwardsAndRewards =
+      'assets/icons/ic_awards_and_rewards.svg';
+  static const String icPerformance = 'assets/icons/ic_performance.svg';
+  static const String icProfileTab = 'assets/icons/ic_profile_tab.svg';
+  static const String icAlert = 'assets/icons/ic_alert.svg';
+  static const String icInsurance = 'assets/icons/ic_insurance.svg';
+  static const String icClockBlack = 'assets/icons/ic_clock_black.svg';
+  static const String icClockBlackUnfill = 'assets/icons/ic_clock_black_unfill.svg';
+  static const String icClockLogin = 'assets/icons/ic_login.svg';
+  static const String icAttendanceWarning =
+      'assets/icons/ic_antendance_warning.svg';
+  static const String icBackForDashboard =
+      'assets/icons/ic_back_for_dashboard.svg';
+  static const String icArrowRightBlack =
+      'assets/icons/ic_arrow_right_black.svg';
+  static const String icArrowLeftBlack = 'assets/icons/ic_arrow_left_black.svg';
+  static const String icMail = 'assets/icons/ic_mail.svg';
+  static const String icMobile = 'assets/icons/ic_mobile.svg';
+  static const String icDocumentPrevious =
+      'assets/icons/ic_document_previous.svg';
+  static const String icTrackTime = 'assets/icons/ic_track_time.svg';
+  static const String icRequest = 'assets/icons/ic_request.svg';
+  static const String icAttendance = 'assets/icons/ic_attendance.svg';
+  static const String icDaysCountBg = 'assets/icons/ic_days_count_bg.svg';
+  static const String icMoreHorizontal = 'assets/icons/ic_more_horizontal.svg';
+  static const String icGroceries = 'assets/icons/ic_groceries.svg';
+  static const String icShare = 'assets/icons/ic_share.svg';
+  static const String icSummarizeTime = 'assets/icons/ic_summarize_time.svg';
+  static const String icNight = 'assets/icons/ic_night.svg';
+  static const String icMorning = 'assets/icons/ic_morning.svg';
+  static const String icAfternoon = 'assets/icons/ic_afternoon.svg';
+  static const String icCalenderRed = 'assets/icons/ic_calendar_red.svg';
+  static const String icEmailSms = 'assets/icons/ic_sms.svg';
+  static const String icMobileSms = 'assets/icons/ic_mobile_tab.svg';
+  static const String icUserLogoPng = 'assets/icons/ic_user_profile.png';
+  static const String icDocs = 'assets/icons/ic_docs.svg';
+  static const String icMobileCircle = 'assets/icons/ic_mobile_circle.png';
+  static const String icWrite = 'assets/icons/ic_write.png';
+  static const String icAdd = 'assets/icons/ic_add.svg';
+  static const String icApple = 'assets/icons/ic_apple.svg';
+  static const String icDailyReport = 'assets/icons/ic_daily_report.svg';
+  static const String icDirectory = 'assets/icons/ic_directory.svg';
+  static const String icContactUs = 'assets/icons/ic_contact_us.svg';
+  static const String icTime = 'assets/icons/ic_time.svg';
+  static const String icCalendar = 'assets/icons/ic_calendar.svg';
+  static const String icPosition = 'assets/icons/ic_position.svg';
+  static const String icAbsence = 'assets/icons/ic_absence_icon.svg';
+  static const String icAddCircle = 'assets/icons/ic_add_circle.svg';
+}
