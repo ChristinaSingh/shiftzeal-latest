@@ -52,7 +52,6 @@ class HomeController extends ChangeNotifier {
   }
 
   void clickOnJoinARegisteredEmployer({required BuildContext context}) {
-    // TODO: implement action
   }
 
   void clickOnClockIn({required BuildContext context}) async {
