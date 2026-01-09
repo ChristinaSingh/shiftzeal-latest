@@ -50,6 +50,7 @@ class GroupListController extends ChangeNotifier {
     if (groupNameController.text.isEmpty || selectedEmployees.isEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
           content: Text("Please enter name and select members")));
+
       return;
     }
 
