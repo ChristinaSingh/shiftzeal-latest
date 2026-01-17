@@ -212,7 +212,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                     _buildStyledDropdown(
                       context: context,
                       hintText: StringConstants.position, // Use Position hint
-                      items: const ['Supervisor', 'Manager', 'Employee'],
+                      items: const ['Supervisor', 'Manager', 'User'],
                       selectedValue: controller.selectedPosition,
                       onChanged: (value) {
                         controller.setPosition(value);
